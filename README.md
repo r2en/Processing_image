@@ -6,3 +6,4 @@
 - Preserve image
 - Access image element
 - Change image element
+- Get image infomation
