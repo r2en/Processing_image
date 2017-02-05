@@ -10,4 +10,6 @@
 - Change Region of image 
 - ReverseImg
 - ResizeImg 
-- AddWeightImg 
+- AddWeightImg
+- Compare brightness(histgram)
+- Mosaic Img
