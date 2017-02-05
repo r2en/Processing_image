@@ -13,7 +13,7 @@
 グレースケール変換 Gray scale<br>
 RGB色空間 RGB color space<br>
 HSV色空間 HSV color space<br>
-色チャンネル分解 resolution color channel<br>
+色チャンネル分解 resolve color channel<br>
 アルファチャンネル Alpha channel<br>
 ガンマ補正 Gamma correction<br>
 ヒストグラム平坦化 Histgram<br>
@@ -21,5 +21,5 @@ HSV色空間 HSV color space<br>
 減色処理 Color subtraction process<br>
 モザイク処理 Mosaic<br>
 マスク処理 Mask process<br>
-二枚の画像合成 Image composition<br>
+二枚の画像合成 Compose image<br>
 Raw画像の取得<br>
