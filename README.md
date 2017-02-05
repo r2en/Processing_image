@@ -17,6 +17,9 @@ HSV色空間 HSV color space<br>
 アルファチャンネル Alpha channel<br>
 ガンマ補正 Gamma correction<br>
 ヒストグラム平坦化 Histgram<br>
+<br>
+![hist_3value](https://cloud.githubusercontent.com/assets/17031124/22630718/3c908eb0-ec42-11e6-9688-d87fb8d00de4.png)
+<br>
 2値化 2 price_ization<br>
 減色処理 Color subtraction process<br>
 モザイク処理 Mosaic<br>
