@@ -22,6 +22,7 @@
 <br>
 - hist_mask.py<br>
 ![screen shot 2017-02-06 at 08 07 48](https://cloud.githubusercontent.com/assets/17031124/22630764/e7e2005a-ec42-11e6-8e3b-2aa0126c580a.png)<br>
+
 ####2値化 2 price_ization<br>
 ####減色処理 Color subtraction process<br>
 ####モザイク処理 Mosaic<br>
