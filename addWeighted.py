@@ -16,7 +16,3 @@ img_07_03 = cv2.addWeighted(imgA,0.7,imgB,0.3,2.2)
 cv2.imwrite("Beatles0307.jpg",img_03_07)
 cv2.imwrite("Beatles0505.jpg",img_05_05)
 cv2.imwrite("Beatles0703.jpg",img_07_03)
-
-cv2.imshow("Beatles0505.jpg",img_05_05)
-cv2.waitKey(0)
-cv2.destroyAllWindows()
