@@ -7,5 +7,7 @@
 - Access image element
 - Change image element
 - Get image infomation
-- Change ROI(region of images)
-- ReverseImg (flip.py)
+- Change Region of image 
+- ReverseImg
+- ResizeImg 
+- AddWeightImg 
