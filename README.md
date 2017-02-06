@@ -1,5 +1,5 @@
 ### 画像処理 Processing image
-####静止画 (Still Image)
+###静止画 (Still Image)
 
 ####画像の読み込み read image<br> 
 ####画像の表示 Indicate image<br>
@@ -10,7 +10,7 @@
 ####画像の重ね合わせ Pile up image<br>
 ####画像の回転 Rotate image<br>
 ####画像の左右反転 reverse image<br>
-####グレースケール変換 Gray scale<br>
+####[グレースケール変換 Gray scale](https://github.com/xxxHAL/Processing_image/tree/master/GrayScale)<br>
 ####RGB色空間 RGB color space<br>
 ####HSV色空間 HSV color space<br>
 ####色チャンネル分解 resolve color channel<br>
@@ -23,3 +23,6 @@
 ####マスク処理 Mask process<br>
 ####二枚の画像合成 Compose image<br>
 ####Raw画像の取得<br>
+
+###ノイズ除去・平滑化 Noise rejection & Smoothing
+#### ぼかし Blur <br>
