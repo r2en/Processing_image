@@ -26,3 +26,4 @@
 
 ###ノイズ除去・平滑化 Noise rejection & Smoothing
 #### ぼかし Blur <br>
+#### [ガウシアンフィルタ](https://github.com/xxxHAL/Processing_image/tree/master/Gaussian) Gaussian Filter<br>
