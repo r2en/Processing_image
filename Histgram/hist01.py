@@ -4,7 +4,7 @@
 import cv2
 import pylab as plt
 
-img = cv2.imread("sample.png")
+img = cv2.imread("../IMG/sample.png")
 
 hist = cv2.calcHist([img],[0],None,[256],[0,256])
 

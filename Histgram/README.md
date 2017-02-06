@@ -1,4 +1,8 @@
 ####ヒストグラム平坦化 Histgram<br>
+- hist01.py<br>
+
+![01](https://cloud.githubusercontent.com/assets/17031124/22631210/16b6c7aa-ec4b-11e6-8ab8-3ecbe0b6990e.png)<br>
+<br>
 - hist_3value.py<br>
 ![hist_3value](https://cloud.githubusercontent.com/assets/17031124/22630718/3c908eb0-ec42-11e6-9688-d87fb8d00de4.png)<br>
 <br>
