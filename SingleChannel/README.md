@@ -4,3 +4,6 @@
 <br>
 2channel01.py<br>
 ![mono01](https://cloud.githubusercontent.com/assets/17031124/22646973/576c7814-ecb2-11e6-847d-ba4850bb473c.png)<br>
+<br>
+2channel02.py<br>
+![2channel](https://cloud.githubusercontent.com/assets/17031124/22648469/3623e504-ecba-11e6-9c2c-eb670d46aaaa.png)<br>
