@@ -4,3 +4,6 @@ elementImg.py<br>
 <br>
 accessElement.py<br>
 ![screen shot 2017-02-06 at 09 59 08 1](https://cloud.githubusercontent.com/assets/17031124/22631547/9722d3a0-ec52-11e6-9f80-06fd67208bd6.png)<br>
+<br>
+elementRGB.py<br>
+![element](https://cloud.githubusercontent.com/assets/17031124/22674177/e3ce8f30-ed21-11e6-8792-07d032843eec.png)<br>
