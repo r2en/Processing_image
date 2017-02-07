@@ -6,7 +6,7 @@
 ####[画像の作成・保存 Create and preserve image](https://github.com/xxxHAL/Processing_image/tree/master/CreateAndPreserveImg)<br>
 ####[画素へのアクセス Access to a image elment](https://github.com/xxxHAL/Processing_image/tree/master/AccessElement)<br>
 ####トリミング  Trim<br>
-####画像のリサイズ Resize image<br> 
+####[画像のリサイズ Resize image](https://github.com/xxxHAL/Processing_image/tree/master/ResizeImg)<br> 
 ####[画像の重ね合わせ Pile up image](https://github.com/xxxHAL/Processing_image/tree/master/PileImg)<br>
 ####[画像の回転 Rotate image](https://github.com/xxxHAL/Processing_image/tree/master/RotateImg)<br>
 ####[画像の左右反転 reverse image](https://github.com/xxxHAL/Processing_image/tree/master/ReverseImg)<br>
