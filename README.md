@@ -15,7 +15,7 @@
 ####[HSV色空間 HSV color space](https://github.com/xxxHAL/Processing_image/tree/master/HSV)<br>
 ####色チャンネル分解 resolve color channel<br>
 ####アルファチャンネル Alpha channel<br>
-####ガンマ補正 Gamma correction<br>
+####ガンマ変換 Gamma conversion<br>
 ####[ヒストグラム平坦化 Histgram](https://github.com/xxxHAL/Processing_image/tree/master/Histgram)<br>
 ####[2値化 2 SingleChannel](https://github.com/xxxHAL/Processing_image/tree/master/SingleChannel)<br>
 ####減色処理 Color subtraction process<br>
