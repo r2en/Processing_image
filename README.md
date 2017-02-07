@@ -25,5 +25,4 @@
 ####Raw画像の取得<br>
 
 ###ノイズ除去・平滑化 Noise rejection & Smoothing
-#### ぼかし Blur <br>
 #### [ガウシアンフィルタ Gaussian Blur](https://github.com/xxxHAL/Processing_image/tree/master/Gaussian)<br>
