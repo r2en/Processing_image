@@ -10,14 +10,14 @@
 ####画像の重ね合わせ Pile up image<br>
 ####画像の回転 Rotate image<br>
 ####画像の左右反転 reverse image<br>
-####[グレースケール変換 Gray scale](https://github.com/xxxHAL/Processing_image/tree/master/GrayScale) Gray scale<br>
+####[グレースケール変換 Gray scale](https://github.com/xxxHAL/Processing_image/tree/master/GrayScale)<br>
 ####RGB色空間 RGB color space<br>
 ####HSV色空間 HSV color space<br>
 ####色チャンネル分解 resolve color channel<br>
 ####アルファチャンネル Alpha channel<br>
 ####ガンマ補正 Gamma correction<br>
 ####ヒストグラム平坦化 Histgram<br>
-####[2値化](https://github.com/xxxHAL/Processing_image/tree/master/SingleChannel) 2 SingleChannel<br>
+####[2値化 2 SingleChannel](https://github.com/xxxHAL/Processing_image/tree/master/SingleChannel)<br>
 ####減色処理 Color subtraction process<br>
 ####モザイク処理 Mosaic<br>
 ####マスク処理 Mask process<br>
@@ -26,4 +26,4 @@
 
 ###ノイズ除去・平滑化 Noise rejection & Smoothing
 #### ぼかし Blur <br>
-#### [ガウシアンフィルタ](https://github.com/xxxHAL/Processing_image/tree/master/Gaussian) Gaussian Filter<br>
+#### [ガウシアンフィルタ Gaussian Blur](https://github.com/xxxHAL/Processing_image/tree/master/Gaussian)<br>
