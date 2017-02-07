@@ -13,13 +13,13 @@ def show_histogram(img):
 	elif im.ndim == 3:
 		fig = plt.figure()
 		fig.add_subplot(311)
-		plt.hist(im[:,:,0].ravel,256,range=(0,255),fc='b')
+		plt.hist(im[:,:,0].label,256,range=(0,255),fc='b')
 		plt.xlim(0,255)
 		fig.add_subplot(312)
-		plt.hist(im[:,:,1].ravel,256,range=(0,255),fc='g')
+		plt.hist(im[:,:,1].label,256,range=(0,255),fc='g')
 		plt.xlim(0,255)
 		fig.add_subplot(313)
-		plt.hist(im[:,:,2].ravel,256,range=(0,255),fc='r')
+		plt.hist(im[:,:,2].label,256,range=(0,255),fc='r')
 		plt.xlim(0,255)
 		plt.show()
 
