@@ -17,7 +17,7 @@
 ####アルファチャンネル Alpha channel<br>
 ####ガンマ補正 Gamma correction<br>
 ####ヒストグラム平坦化 Histgram<br>
-####2値化 2 SingleChannel<br>
+####[2値化](https://github.com/xxxHAL/Processing_image/tree/master/SingleChannel) 2 SingleChannel<br>
 ####減色処理 Color subtraction process<br>
 ####モザイク処理 Mosaic<br>
 ####マスク処理 Mask process<br>
