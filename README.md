@@ -10,7 +10,7 @@
 ####画像の重ね合わせ Pile up image<br>
 ####画像の回転 Rotate image<br>
 ####画像の左右反転 reverse image<br>
-####[グレースケール変換](https://github.com/xxxHAL/Processing_image/tree/master/GrayScale) Gray scale<br>
+####[グレースケール変換 Gray scale](https://github.com/xxxHAL/Processing_image/tree/master/GrayScale) Gray scale<br>
 ####RGB色空間 RGB color space<br>
 ####HSV色空間 HSV color space<br>
 ####色チャンネル分解 resolve color channel<br>
