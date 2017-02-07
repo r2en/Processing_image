@@ -8,3 +8,6 @@
 <br>
 - hist_mask.py<br>
 ![screen shot 2017-02-06 at 08 07 48](https://cloud.githubusercontent.com/assets/17031124/22630764/e7e2005a-ec42-11e6-8e3b-2aa0126c580a.png)<br>
+<br>
+example.py<br>
+![screen shot 2017-02-08 at 08 37 09](https://cloud.githubusercontent.com/assets/17031124/22716405/4965c1c6-edd9-11e6-976f-8a1a2aa61531.png)<br>
