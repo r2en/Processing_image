@@ -19,7 +19,7 @@
 ####[ヒストグラム平坦化 Histgram](https://github.com/xxxHAL/Processing_image/tree/master/Histgram)<br>
 ####[2値化 2 SingleChannel](https://github.com/xxxHAL/Processing_image/tree/master/SingleChannel)<br>
 ####減色処理 Color subtraction process<br>
-####モザイク処理 Mosaic<br>
+####[モザイク処理 Mosaic](https://github.com/xxxHAL/Processing_image/tree/master/Mosaic)<br>
 ####[マスク処理 Mask process](https://github.com/xxxHAL/Processing_image/tree/master/MaskProcess)<br>
 ####二枚の画像合成 Compose image<br>
 ####Raw画像の取得<br>
