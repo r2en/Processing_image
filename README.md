@@ -13,7 +13,7 @@
 ####[グレースケール変換 Gray scale](https://github.com/xxxHAL/Processing_image/tree/master/GrayScale)<br>
 ####[RGB色空間 RGB color space](https://github.com/xxxHAL/Processing_image/tree/master/RGB)<br>
 ####[HSV色空間 HSV color space](https://github.com/xxxHAL/Processing_image/tree/master/HSV)<br>
-####色チャンネル分解 resolve color channel<br>
+####[色チャンネル分解 resolve color channel](https://github.com/xxxHAL/Processing_image/tree/master/ColorChannel)<br>
 ####アルファチャンネル Alpha channel<br>
 ####[ガンマ変換 Gamma conversion](https://github.com/xxxHAL/Processing_image/tree/master/Gamma)<br>
 ####[ヒストグラム平坦化 Histgram](https://github.com/xxxHAL/Processing_image/tree/master/Histgram)<br>
