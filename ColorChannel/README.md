@@ -7,3 +7,6 @@ colorChannel.py<br>
 <br>
 ![screen shot 2017-02-08 at 09 00 34](https://cloud.githubusercontent.com/assets/17031124/22717129/b56dac00-eddc-11e6-8e9d-cde247c46d1c.png)<br>
 <br>
+colorChannelHist.py<br>
+![screen shot 2017-02-08 at 09 35 35](https://cloud.githubusercontent.com/assets/17031124/22717997/7f106e68-ede1-11e6-8a00-27f042b73678.png)<br>
+
