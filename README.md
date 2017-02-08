@@ -28,7 +28,7 @@
 #### [ガウシアンフィルタ Gaussian Blur](https://github.com/xxxHAL/Processing_image/tree/master/Gaussian)<br>
 
 ###検出・抽出
-####顔検出 Facial Detection 
+####[顔検出 Facial Detection](https://github.com/xxxHAL/Processing_image/tree/master/FacialDetection) 
 
 
 
