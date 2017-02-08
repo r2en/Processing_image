@@ -29,11 +29,11 @@
 
 ###検出・抽出
 ####[顔検出 Facial Detection](https://github.com/xxxHAL/Processing_image/tree/master/FacialDetection) 
-####[直線検出 ハフ変換 Direct detection]()
-####[円検出 ハフ変換 Circle detection]()
-####[エッジ検出 キャニー法]()
-####[エッジ検出 輪郭検出]()
-####[外接矩形]()
+####[直線検出 ハフ変換 Direct detection]
+####[円検出 ハフ変換 Circle detection]
+####[エッジ検出 キャニー法]
+####[エッジ検出 輪郭検出](https://github.com/xxxHAL/Processing_image/tree/master/Edgedetection)
+####[外接矩形]
 
 
 
