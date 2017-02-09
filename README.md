@@ -29,8 +29,8 @@
 
 ###検出・抽出
 ####[顔検出 Facial Detection](https://github.com/xxxHAL/Processing_image/tree/master/FacialDetection) 
-####[ハフ変換 Hough]
-####[キャニー法]
+####[ハフ変換 Hough]()
+####[キャニー法](https://github.com/xxxHAL/Processing_image/tree/master/Canny)
 ####[エッジ検出 輪郭検出](https://github.com/xxxHAL/Processing_image/tree/master/Edgedetection)
 
 
