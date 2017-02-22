@@ -41,7 +41,7 @@
 <br>
 ##動画像処理 (processing animation)
 
-###物体検出・追跡
+###・物体検出・追跡
 ####[Meanshift](https://github.com/xxxHAL/Processing_image/tree/master/Meanshift)
 ####[Camshift](https://github.com/xxxHAL/Processing_image/tree/master/Camshift)
 ####[OpticalFlow LK法](https://github.com/xxxHAL/processing_image/tree/master/OpticalFlow)
