@@ -20,16 +20,16 @@
 ####[モザイク処理 Mosaic](https://github.com/xxxHAL/Processing_image/tree/master/Mosaic)<br>
 ####[マスク処理 Mask process](https://github.com/xxxHAL/Processing_image/tree/master/MaskProcess)<br>
 
-###ノイズ除去・平滑化 Noise rejection & Smoothing
+###・ノイズ除去&平滑化 Noise rejection & Smoothing
 #### [ガウシアンフィルタ Gaussian Blur](https://github.com/xxxHAL/Processing_image/tree/master/Gaussian)<br>
 
-###検出・抽出
+###・検出&抽出
 ####[顔検出 Facial Detection](https://github.com/xxxHAL/Processing_image/tree/master/FacialDetection) 
 ####[ハフ変換 Hough](https://github.com/xxxHAL/Processing_image/tree/master/Hough)
 ####[キャニー法 Canny](https://github.com/xxxHAL/Processing_image/tree/master/Canny)
 ####[エッジ検出 輪郭検出](https://github.com/xxxHAL/Processing_image/tree/master/Edgedetection)
 
-###特徴点抽出
+###・特徴点抽出
 ####[SIFT Scale-Invariant Feature Transform](https://github.com/xxxHAL/Processing_image/tree/master/SIFT)
 ####[SURF Speed-Up Robust Features](https://github.com/xxxHAL/Processing_image/tree/master/SURF)
 ####[FAST Features from Accelerated Segment Test](https://github.com/xxxHAL/Processing_image/tree/master/FAST)
@@ -41,7 +41,7 @@
 <br>
 ##動画像処理 (processing animation)
 
-###・物体検出・追跡
+###・物体検出&追跡
 ####[Meanshift](https://github.com/xxxHAL/Processing_image/tree/master/Meanshift)
 ####[Camshift](https://github.com/xxxHAL/Processing_image/tree/master/Camshift)
 ####[OpticalFlow LK法](https://github.com/xxxHAL/processing_image/tree/master/OpticalFlow)
