@@ -40,7 +40,9 @@
 ####[k近傍法 k-Nearest Neighbor](https://github.com/xxxHAL/processing_image/tree/master/k-NearestNeighbor)
 <br>
 ##動画像処理 (processing animation)
+
+###物体検出・追跡
 ####[Meanshift](https://github.com/xxxHAL/Processing_image/tree/master/Meanshift)
 ####[Camshift](https://github.com/xxxHAL/Processing_image/tree/master/Camshift)
-####[OpticalFlow](https://github.com/xxxHAL/processing_image/tree/master/OpticalFlow)
-####[背景差分 BackgroundSubtractor](https://github.com/xxxHAL/processing_image/tree/master/BackgroundSubtractor)
+####[OpticalFlow LK法](https://github.com/xxxHAL/processing_image/tree/master/OpticalFlow)
+####[背景差分(GMG,MoG) BackgroundSubtractor](https://github.com/xxxHAL/processing_image/tree/master/BackgroundSubtractor)
