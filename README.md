@@ -21,10 +21,10 @@
 ####[モザイク処理 Mosaic](https://github.com/xxxHAL/Processing_image/tree/master/Mosaic)<br>
 ####[マスク処理 Mask process](https://github.com/xxxHAL/Processing_image/tree/master/MaskProcess)<br>
 
-###・ノイズ除去&平滑化 Noise rejection & Smoothing
+###・ノイズ除去 & 平滑化 Noise rejection & Smoothing
 #### [ガウシアンフィルタ Gaussian Blur](https://github.com/xxxHAL/Processing_image/tree/master/Gaussian)<br>
 
-###・検出&抽出
+###・検出 & 抽出
 ####[顔検出 Facial Detection](https://github.com/xxxHAL/Processing_image/tree/master/FacialDetection) 
 ####[ハフ変換 Hough](https://github.com/xxxHAL/Processing_image/tree/master/Hough)
 ####[キャニー法 Canny](https://github.com/xxxHAL/Processing_image/tree/master/Canny)
@@ -42,7 +42,7 @@
 <br>
 ##動画像処理 (Processing Video)
 
-###・物体検出&追跡
+###・物体検出 & 追跡
 ####[Video](https://github.com/xxxHAL/Processing_image/tree/master/Video)
 ####[Meanshift](https://github.com/xxxHAL/Processing_image/tree/master/Meanshift)
 ####[Camshift](https://github.com/xxxHAL/Processing_image/tree/master/Camshift)
