@@ -44,3 +44,7 @@
 <br>
 <br>
 ##動画像処理 (processing animation)
+####[Meanshift](https://github.com/xxxHAL/Processing_image/tree/master/Meanshift)
+####[Camshift](https://github.com/xxxHAL/Processing_image/tree/master/Camshift)
+####[OpticalFlow](https://github.com/xxxHAL/processing_image/tree/master/OpticalFlow)
+####[背景差分 BackgroundSubtractor](https://github.com/xxxHAL/processing_image/tree/master/BackgroundSubtractor)
