@@ -1,5 +1,5 @@
 # 画像処理 Processing image<br>
-
+<br>
 静止画像処理 (processing Still Image)<br>
 ・基本操作<br>
 [画像の読み込み read image](https://github.com/xxxHAL/Processing_image/tree/master/ReadImg)<br>
@@ -49,5 +49,5 @@
 [OpticalFlow LK法](https://github.com/xxxHAL/processing_image/tree/master/OpticalFlow)<br>
 [背景差分(GMG,MoG)<br> BackgroundSubtractor](https://github.com/xxxHAL/processing_image/tree/master/BackgroundSubtractor)<br>
 <br>
-機械学習 (MachineLearning)<br>
+・機械学習 (MachineLearning)<br>
 [OCR 光学文字認識](https://github.com/xxxHAL/processing_image/tree/master/OCR)<br>
