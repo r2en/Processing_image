@@ -51,3 +51,4 @@
 <br>
 ・機械学習 (MachineLearning)<br>
 [OCR 光学文字認識](https://github.com/xxxHAL/processing_image/tree/master/OCR)<br>
+[SVM]
